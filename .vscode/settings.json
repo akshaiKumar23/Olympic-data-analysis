@@ -1,5 +1,13 @@
 {
-  "cSpell.words": ["astype", "dataframe", "dropna", "selectbox", "streamlit"],
+  "cSpell.words": [
+    "astype",
+    "dataframe",
+    "dropna",
+    "fillna",
+    "plotly",
+    "selectbox",
+    "streamlit"
+  ],
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
